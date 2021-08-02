@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, cloud computing and yet to discover my coding path.
 - 🌱 I’m currently learning python in DS.
 - 💞️ I’m looking to collaborate on any projects to improve my coding knowledge.
-- 📫 How to reach me Gmail: @vmliyengar@gmail.com
+- 📫 How to reach me Gmail: vmliyengar@gmail.com
                      Instagram: @justvishhh
 
 <!---
