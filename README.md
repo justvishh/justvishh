@@ -1,4 +1,4 @@
- 📫 How to reach me Gmail: vmliyengar@gmail
+ 📫 How to reach me: vmliyengar@gmail
 
 <!---
 justvishh/justvishh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
